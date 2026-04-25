@@ -1,5 +1,5 @@
 export default {
-  base: "./",
+  base: "/senior-project2d/",
   server: {
     host: '0.0.0.0',
   },
